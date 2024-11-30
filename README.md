@@ -22,10 +22,13 @@ El proyecto incluye:
    - Basado en probabilidades, requiere múltiples ejecuciones para mejorar la precisión.  
    - Es simple de implementar y adecuado para grafos grandes.
 
-3. **Video Explicativo:**  
+3. **Videos Explicativos:**  
+   **Primer Video**
    https://drive.google.com/file/d/12k1oKhE46R69Tyt_fsLTT7G38r33T09a/view?usp=drive_link
-
-4. **Código fuente y ejemplos prácticos:**  
+   **Segundo Video donde se profundiza mas**
+   https://drive.google.com/file/d/1W-DOUhVp9Rv0gtDqVuR-OB5Lhx8z_lL-/view?usp=sharing
+   
+5. **Código fuente y ejemplos prácticos:**  
    - Implementación del algoritmo de Ford-Fulkerson.  
    - Implementación del algoritmo de Karger.  
 
